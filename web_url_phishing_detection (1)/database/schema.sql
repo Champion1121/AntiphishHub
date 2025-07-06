@@ -1,0 +1,1 @@
+-- SQL schema for users, URLs, phishing data
